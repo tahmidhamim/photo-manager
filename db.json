@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "34c5",
+      "name": "Antonia Hills"
+    },
+    {
+      "id": "607a",
+      "name": "Alison Hand"
+    },
+    {
+      "id": "8a2f",
+      "name": "Christie Sanford"
+    },
+    {
+      "id": "8d85",
+      "name": "Rodolfo Douglas"
+    },
+    {
+      "id": "57b1",
+      "name": "Melvin Lueilwitz"
+    }
+  ],
+  "albums": [
+    {
+      "id": "9848",
+      "userId": "1",
+      "title": "Handcrafted Concrete Towels"
+    },
+    {
+      "id": "caa9",
+      "userId": "1",
+      "title": "Elegant Plastic Salad"
+    },
+    {
+      "id": "572f",
+      "userId": "1",
+      "title": "Oriental Wooden Shoes"
+    },
+    {
+      "id": "6f9f",
+      "userId": "1",
+      "title": "Gorgeous Rubber Bacon"
+    },
+    {
+      "id": "7a53",
+      "userId": "1",
+      "title": "Handmade Steel Shoes"
+    },
+    {
+      "id": "5abe",
+      "userId": "1",
+      "title": "Small Metal Soap"
+    },
+    {
+      "id": "204a",
+      "userId": "1",
+      "title": "Practical Concrete Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "0883",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=61628"
+    },
+    {
+      "id": "858d",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=20112"
+    },
+    {
+      "id": "5c11",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=89625"
+    },
+    {
+      "id": "ca7c",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=39675"
+    },
+    {
+      "id": "dbbf",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=94099"
+    },
+    {
+      "id": "30cf",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=10502"
+    },
+    {
+      "id": "8c7c",
+      "albumId": "9848",
+      "url": "https://loremflickr.com/150/150/abstract?lock=96748"
+    }
+  ]
+}
